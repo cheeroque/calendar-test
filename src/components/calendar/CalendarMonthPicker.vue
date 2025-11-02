@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { computed, defineModel, defineProps } from 'vue'
+import { computed } from 'vue'
 
 import SharedButton from '../shared/SharedButton.vue'
 import { getArrayByLength } from '../../utils/index'

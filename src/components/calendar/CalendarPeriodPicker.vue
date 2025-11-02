@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { computed, defineModel, defineProps } from 'vue'
+import { computed } from 'vue'
 
 import CalendarMonthPicker from './CalendarMonthPicker.vue'
 import CalendarYearPicker from './CalendarYearPicker.vue'
